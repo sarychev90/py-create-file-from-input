@@ -7,5 +7,6 @@ def main() -> None:
                 break
             file.write(new_line + "\n")
 
+
 if __name__ == "__main__":
     main()
